@@ -1,0 +1,55 @@
+C:\Users\User\source\repos\kursachchchch\kursachchchch\bin\Debug\kursachchchch.exe.config
+C:\Users\User\source\repos\kursachchchch\kursachchchch\bin\Debug\kursachchchch.exe
+C:\Users\User\source\repos\kursachchchch\kursachchchch\bin\Debug\kursachchchch.pdb
+C:\Users\User\source\repos\kursachchchch\kursachchchch\obj\Debug\kursachchchch.Form1.resources
+C:\Users\User\source\repos\kursachchchch\kursachchchch\obj\Debug\kursachchchch.Properties.Resources.resources
+C:\Users\User\source\repos\kursachchchch\kursachchchch\obj\Debug\kursachchchch.csproj.GenerateResource.cache
+C:\Users\User\source\repos\kursachchchch\kursachchchch\obj\Debug\kursachchchch.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\kursachchchch\kursachchchch\obj\Debug\kursachchchch.exe
+C:\Users\User\source\repos\kursachchchch\kursachchchch\obj\Debug\kursachchchch.pdb
+C:\Users\User\source\repos\kursachchchch\kursachchchch\obj\Debug\kursachchchch.Form2.resources
+C:\Users\User\source\repos\kursachchchch\kursachchchch\obj\Debug\kursachchchch.csprojAssemblyReference.cache
+C:\Users\User\Desktop\kursachchchch v 3.0\kursachchchch\bin\Debug\kursachchchch.exe.config
+C:\Users\User\Desktop\kursachchchch v 3.0\kursachchchch\bin\Debug\kursachchchch.exe
+C:\Users\User\Desktop\kursachchchch v 3.0\kursachchchch\bin\Debug\kursachchchch.pdb
+C:\Users\User\Desktop\kursachchchch v 3.0\kursachchchch\obj\Debug\kursachchchch.csprojAssemblyReference.cache
+C:\Users\User\Desktop\kursachchchch v 3.0\kursachchchch\obj\Debug\kursachchchch.Form1.resources
+C:\Users\User\Desktop\kursachchchch v 3.0\kursachchchch\obj\Debug\kursachchchch.Form2.resources
+C:\Users\User\Desktop\kursachchchch v 3.0\kursachchchch\obj\Debug\kursachchchch.Properties.Resources.resources
+C:\Users\User\Desktop\kursachchchch v 3.0\kursachchchch\obj\Debug\kursachchchch.csproj.GenerateResource.cache
+C:\Users\User\Desktop\kursachchchch v 3.0\kursachchchch\obj\Debug\kursachchchch.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\kursachchchch v 3.0\kursachchchch\obj\Debug\kursachchchch.exe
+C:\Users\User\Desktop\kursachchchch v 3.0\kursachchchch\obj\Debug\kursachchchch.pdb
+C:\Users\User\Desktop\kursachchchch v 5.0\kursachchchch\bin\Debug\kursachchchch.exe.config
+C:\Users\User\Desktop\kursachchchch v 5.0\kursachchchch\bin\Debug\kursachchchch.exe
+C:\Users\User\Desktop\kursachchchch v 5.0\kursachchchch\bin\Debug\kursachchchch.pdb
+C:\Users\User\Desktop\kursachchchch v 5.0\kursachchchch\obj\Debug\kursachchchch.csprojAssemblyReference.cache
+C:\Users\User\Desktop\kursachchchch v 5.0\kursachchchch\obj\Debug\kursachchchch.Form1.resources
+C:\Users\User\Desktop\kursachchchch v 5.0\kursachchchch\obj\Debug\kursachchchch.Form2.resources
+C:\Users\User\Desktop\kursachchchch v 5.0\kursachchchch\obj\Debug\kursachchchch.Properties.Resources.resources
+C:\Users\User\Desktop\kursachchchch v 5.0\kursachchchch\obj\Debug\kursachchchch.csproj.GenerateResource.cache
+C:\Users\User\Desktop\kursachchchch v 5.0\kursachchchch\obj\Debug\kursachchchch.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\kursachchchch v 5.0\kursachchchch\obj\Debug\kursachchchch.exe
+C:\Users\User\Desktop\kursachchchch v 5.0\kursachchchch\obj\Debug\kursachchchch.pdb
+C:\Users\User\Desktop\kursachchchch v 6.0\kursachchchch\obj\Debug\kursachchchch.csprojAssemblyReference.cache
+C:\Users\User\Desktop\kursachchchch v 6.0\kursachchchch\obj\Debug\kursachchchch.Form1.resources
+C:\Users\User\Desktop\kursachchchch v 6.0\kursachchchch\obj\Debug\kursachchchch.Form2.resources
+C:\Users\User\Desktop\kursachchchch v 6.0\kursachchchch\obj\Debug\kursachchchch.Properties.Resources.resources
+C:\Users\User\Desktop\kursachchchch v 6.0\kursachchchch\obj\Debug\kursachchchch.csproj.GenerateResource.cache
+C:\Users\User\Desktop\kursachchchch v 6.0\kursachchchch\obj\Debug\kursachchchch.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\kursachchchch v 6.0\kursachchchch\obj\Debug\kursachchchch.exe
+C:\Users\User\Desktop\kursachchchch v 6.0\kursachchchch\obj\Debug\kursachchchch.pdb
+C:\Users\User\Desktop\kursachchchch v 6.0\kursachchchch\bin\Debug\kursachchchch.exe.config
+C:\Users\User\Desktop\kursachchchch v 6.0\kursachchchch\bin\Debug\kursachchchch.exe
+C:\Users\User\Desktop\kursachchchch v 6.0\kursachchchch\bin\Debug\kursachchchch.pdb
+C:\Users\User\Desktop\kursachchchch v 7.0 final\kursachchchch\bin\Debug\kursachchchch.exe.config
+C:\Users\User\Desktop\kursachchchch v 7.0 final\kursachchchch\bin\Debug\kursachchchch.exe
+C:\Users\User\Desktop\kursachchchch v 7.0 final\kursachchchch\bin\Debug\kursachchchch.pdb
+C:\Users\User\Desktop\kursachchchch v 7.0 final\kursachchchch\obj\Debug\kursachchchch.csprojAssemblyReference.cache
+C:\Users\User\Desktop\kursachchchch v 7.0 final\kursachchchch\obj\Debug\kursachchchch.Form1.resources
+C:\Users\User\Desktop\kursachchchch v 7.0 final\kursachchchch\obj\Debug\kursachchchch.Form2.resources
+C:\Users\User\Desktop\kursachchchch v 7.0 final\kursachchchch\obj\Debug\kursachchchch.Properties.Resources.resources
+C:\Users\User\Desktop\kursachchchch v 7.0 final\kursachchchch\obj\Debug\kursachchchch.csproj.GenerateResource.cache
+C:\Users\User\Desktop\kursachchchch v 7.0 final\kursachchchch\obj\Debug\kursachchchch.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\kursachchchch v 7.0 final\kursachchchch\obj\Debug\kursachchchch.exe
+C:\Users\User\Desktop\kursachchchch v 7.0 final\kursachchchch\obj\Debug\kursachchchch.pdb
